@@ -1,4 +1,3 @@
-# Basic Calculator Program 🧮
 
 # Get input from user
 num1 = float(input("Enter the first number: "))
